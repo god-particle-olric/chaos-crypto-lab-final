@@ -1,3 +1,7 @@
+<img width="1439" height="636" alt="Screenshot 2026-05-02 at 2 44 47 AM" src="https://github.com/user-attachments/assets/e3618587-3add-474d-9516-b391919d0457" />
+<img width="1455" height="614" alt="Screenshot 2026-05-02 at 2 44 51 AM" src="https://github.com/user-attachments/assets/06cb569f-cf00-4ba2-9f93-93512f5cd211" />
+<img width="1461" height="703" alt="Screenshot 2026-05-02 at 2 44 56 AM" src="https://github.com/user-attachments/assets/bd82a3ad-d96a-4825-882d-d15bfa15cb81" />
+<img width="1421" height="798" alt="Screenshot 2026-05-02 at 2 44 42 AM" src="https://github.com/user-attachments/assets/433c786e-a244-4c2d-a0a0-b3d142c767c7" />
 # 📟 Advanced Crypto & Steganography Lab
 
 Welcome to the **Final Edition** of the Chaos Laboratory. This project is a comprehensive cryptographic suite that merges advanced mathematics with practical security applications. It utilizes the **Jacobsthal sequence** for initial key generation and **Logistic Maps** ($x = r \cdot x \cdot (1 - x)$) for high-entropy data encryption.
